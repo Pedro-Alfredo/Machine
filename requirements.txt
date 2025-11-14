@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+psutil
+scikit-learn
+python-docx
+gunicorn
